@@ -49,3 +49,14 @@ pip install arch pyvinecopulib openpyxl statsmodels scipy pandas numpy matplotli
 
 ## Data Source
 EIA Weekly Underground Storage data.
+## Results Preview
+EIA Weekly NG Storage
+ <img src="EIA Weekly NG Storage.png" alt="" width="1500" align="center"/>
+
+Model Forecast
+ <img src="Chart2_Total_analyst_style.png" alt="" width="1500" align="center"/>
+
+ <img src="Chart2_SouthCentral_forecast.png" alt="" width="1500" align="center"/>
+
+
+
