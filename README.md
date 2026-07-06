@@ -1,7 +1,7 @@
 # Natural Gas Storage Analysis
 ## Mehrdad Heyrani (https://www.linkedin.com/in/mehrdad-heyrani/)
 ## Overview
-This notebook performs a comprehensive analysis and forecasting of natural gas storage, covering data preprocessing, seasonal analysis, multi-model forecasting, and visualization. The workflow processes the `gas_realized.xlsx` dataset to generate seasonal overlays, multi-model forecast fans, Z-score charts, and a forecast summary table.
+This notebook performs a comprehensive analysis and forecasting of natural gas storage, covering data preprocessing, seasonal analysis, multi-model forecasting, and visualization. The workflow processes the EIA NAtural Gas Storage dataset to generate seasonal overlays, multi-model forecast fans, Z-score charts, and a forecast summary table.
 
 ## Installation
 All necessary Python libraries can be installed using `pip`:
